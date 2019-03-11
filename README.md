@@ -16,13 +16,13 @@ The Columbia River and its tributaries host some of the largest salmon and steel
 Question: How does temperature affect the health of an annual Columbia River salmon/steelhead return?  
 
 Data  
-Temperature data is from the United States Geological Survery (USGS)   
-     Location: Bonneville Dam Forebay  
-     Annual temperature average for months April-August  
-          This is the time period when majority of fish are counted  
-          Incomplete data in winter months 
-     Obtain data: https://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=453845121562000   
-Fish counts are courtesy of the fish passage center at the Bonneville Dam  
-     Run by the Corps of Engineers  
-     Obtain data: http://www.fpc.org/web/apps/adultsalmon/Q_adultcounts_annualtotalsquery.php  
+* Temperature data is from the United States Geological Survery (USGS)   
+     * Location: Bonneville Dam Forebay  
+     * Annual temperature average for months April-August  
+          * This is the time period when majority of fish are counted  
+          * Incomplete data in winter months 
+     * Obtain data: https://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=453845121562000   
+* Fish counts are courtesy of the fish passage center at the Bonneville Dam  
+     * Run by the Corps of Engineers  
+     * Obtain data: http://www.fpc.org/web/apps/adultsalmon/Q_adultcounts_annualtotalsquery.php  
 
