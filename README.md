@@ -1,7 +1,7 @@
 # Final-Project-450
-Temperature and annual Columbia River salmon returns
-Author: Aaron Cardwell
-Submission Date: 3/12/19
+* Temperature and annual Columbia River salmon returns
+* Author: Aaron Cardwell
+* Submission Date: 3/12/19
 
 Intro/Question   
 The Columbia River and its tributaries host some of the largest salmon and steelhead runs   
