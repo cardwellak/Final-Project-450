@@ -22,7 +22,7 @@ Data
           * This is the time period when majority of fish are counted  
           * Incomplete data in winter months 
      * Obtain data: https://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=453845121562000
-        * Choose sampling frequency, temperature (or any characteristic available), date range, format
+        * Choose sampling frequency, temperature (or any characteristic of interest), date range, format
 * Fish counts are courtesy of the fish passage center at the Bonneville Dam  
      * Run by the Corps of Engineers  
      * Obtain data: http://www.fpc.org/web/apps/adultsalmon/Q_adultcounts_annualtotalsquery.php
