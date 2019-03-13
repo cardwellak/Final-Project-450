@@ -3,7 +3,7 @@ Temperature and annual Columbia River salmon returns
 Author: Aaron Cardwell  
 Submission Date: 3/12/19  
 
-Intro/Question   
+Intro  
 The Columbia River and its tributaries host some of the largest salmon and steelhead runs   
 but most don’t make it back to the river to spawn  
 * Depending on the run 1/10 of 1 percent to 2 percent of smolts return as salmon  
