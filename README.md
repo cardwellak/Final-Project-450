@@ -11,7 +11,7 @@ but most don’t make it back to the river to spawn
     * Want to explore effect of warm rivers in the early and late portion of their lives
 
 
-Question: How does temperature affect the health of an annual Columbia River salmon/steelhead return?  
+Question: How does water temperature affect the health of an annual Columbia River salmon/steelhead return?  
 
 Data  
 * Temperature data is from the United States Geological Survery (USGS)   
