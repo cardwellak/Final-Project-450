@@ -7,8 +7,9 @@ Intro/Question
 The Columbia River and its tributaries host some of the largest salmon and steelhead runs   
 but most don’t make it back to the river to spawn  
 * Depending on the run 1/10 of 1 percent to 2 percent of smolts return as salmon  
-* We know high water temperatures kill salmon   
-     * Want to explore the data that supports this fact  
+* Salmon spend most of their lives in cold ocean water
+    * Want to explore effect of warm rivers in the early and late portion of their lives
+
 
 Question: How does temperature affect the health of an annual Columbia River salmon/steelhead return?  
 
