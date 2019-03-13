@@ -26,3 +26,5 @@ Data
      * Obtain data: http://www.fpc.org/web/apps/adultsalmon/Q_adultcounts_annualtotalsquery.php
         * Select sampling site (BON for Bonneville dam), start and end date, and species 
 
+* Link to USGS sampling device description
+   * https://water.usgs.gov/edu/watermonitoring.html
